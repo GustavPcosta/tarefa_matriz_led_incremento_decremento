@@ -61,5 +61,6 @@ https://www.canva.com/design/DAGdf44ya28/BBJolM4VGM-9hgJ9MmTXNA/watch?utm_conten
 
 OBSERVAÇÕES:
 Ocorreram eventuais erros durante a produção do projeto, tendo em vista esses erros, acabei colocando os nomes dos meus arquivos .c com nomes curtos para melhor visualização
+certifique-se de estar com internet para poder visualizar o vídeo apresentação
 
 
